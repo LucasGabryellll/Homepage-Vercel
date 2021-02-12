@@ -1,5 +1,5 @@
 # Homepage do Site Vercel
-## Estudando Animação com CSS e SCSS
+## 🎓 Estudando Animação com CSS e SCSS
 
 <p align="center">
   <img alt="GitHub language" count src=https://github.com/LucasGabryellll/Homepage-Vercel/blob/main/page-concluded/preview-page.PNG>
@@ -19,7 +19,7 @@ a plataforma permite que as equipes de front-end façam seu melhor trabalho.
 - Live Server:
 - Live Sass Compiler:
 
-- Clone o repositório, copiando o endereço obtido no `GIT`:
+### Clone o repositório, copiando o endereço obtido no `GIT`:
 <img alt="GitHub language" count src=https://github.com/LucasGabryellll/Homepage-Vercel/blob/main/page-concluded/clone%20do%20repositorio.PNG>
 
 - No VScode digite:
