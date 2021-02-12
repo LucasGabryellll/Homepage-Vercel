@@ -15,6 +15,12 @@ a plataforma permite que as equipes de front-end façam seu melhor trabalho.
 
 ## 💻 Rodando o Projeto: 
 - Abra Clone o repositório:
+<img alt="GitHub language" count src=https://github.com/LucasGabryellll/Homepage-Vercel/blob/main/page-concluded/clone%20do%20repositorio.PNG>
+
+- No VScode digite:
+`git clone` + o endereço copiado
+
+- 
 
  ## 🚀 Tecnologias:
   Esse projeto foi desenvolvido com as seguintes tecnologias:
