@@ -13,12 +13,17 @@ a plataforma permite que as equipes de front-end façam seu melhor trabalho.
 
 - Vercel é o melhor lugar para implantar qualquer aplicativo de front-end. Comece implantando com configuração zero em nossa sua global de ponta, Possibilitando a dinamicamente para milhões de páginas sem suar muito.
 
-## 💻 Rodando o Projeto: 
+## 💻 Rodando o Projeto:
+
+### ❗ Extensões Necessárias no VScode:
+- Live Server:
+- Live Sass Compiler:
+
 - Clone o repositório, copiando o endereço obtido no `GIT`:
 <img alt="GitHub language" count src=https://github.com/LucasGabryellll/Homepage-Vercel/blob/main/page-concluded/clone%20do%20repositorio.PNG>
 
 - No VScode digite:
-`git clone` + o endereço copiado
+`git clone` + o endereço copiado:
 
 - Digite o `ATALHO`: "alt + L alt + O": 
 Para executar o arquivo `Index.html` no LIVE SERVER.
