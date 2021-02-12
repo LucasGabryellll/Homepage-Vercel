@@ -20,8 +20,8 @@ a plataforma permite que as equipes de front-end façam seu melhor trabalho.
 - No VScode digite:
 `git clone` + o endereço copiado
 
-- Digite o `ATALHO`: "alt + L alt + O":
-
+- Digite o `ATALHO`: "alt + L alt + O": 
+Para executar o arquivo `Index.html` no LIVE SERVER.
 
  ## 🚀 Tecnologias:
   Esse projeto foi desenvolvido com as seguintes tecnologias:
