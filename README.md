@@ -13,6 +13,9 @@ a plataforma permite que as equipes de front-end façam seu melhor trabalho.
 
 - Vercel é o melhor lugar para implantar qualquer aplicativo de front-end. Comece implantando com configuração zero em nossa sua global de ponta, Possibilitando a dinamicamente para milhões de páginas sem suar muito.
 
+## 💻 Rodando o Projeto: 
+- Abra Clone o repositório:
+
  ## 🚀 Tecnologias:
   Esse projeto foi desenvolvido com as seguintes tecnologias:
   - HTML
